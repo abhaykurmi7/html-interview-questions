@@ -9,6 +9,6 @@ This repo is for **revision, interviews, and strong fundamentals**.
 
 ## Day 1
 ### Q: What is HTML?
-A: HTML (HyperText Markup Language) is used to structure content on the web.
+A: HTML (HyperText Markup Language) is used to structure content on the Web.
 
 ---
