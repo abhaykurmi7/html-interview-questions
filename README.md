@@ -16,3 +16,6 @@ A: HTML (HyperText Markup Language) is used to structure content on the Web.
 
 ### Q: What is the role of HTML in a website?
 A: HTML defines the structure and content of a website. It organizes elements such as headings, paragraphs, images, links, and forms so the browser knows what to display. HTML works with CSS for styling and JavaScript for interactivity.
+
+### Q: What is a tag in HTML?
+A: A tag in HTML is a keyword enclosed in angle brackets that is used to define elements on a webpage. Tags tell the browser how content should be structured or displayed, such as <p> for paragraphs or <img> for images.
