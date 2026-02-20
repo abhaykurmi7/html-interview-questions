@@ -19,3 +19,14 @@ A: HTML defines the structure and content of a website. It organizes elements su
 
 ### Q: What is a tag in HTML?
 A: A tag in HTML is a keyword enclosed in angle brackets that is used to define elements on a webpage. Tags tell the browser how content should be structured or displayed, such as <p> for paragraphs or <img> for images.
+
+## Day 3
+
+### Q1: What is an HTML element?
+A: An HTML element consists of a start tag, content, and an end tag. It represents a complete unit that defines how content is structured and displayed on a webpage.
+
+### Q2: What is the difference between an HTML tag and an element?
+A: A tag is the markup written inside angle brackets, like <p>, while an element includes the tag along with its content and closing tag, forming a complete structure.
+
+### Q3: What is an attribute in HTML?
+A: An attribute provides additional information about an HTML element. It is written inside the opening tag and is usually in name–value pairs, such as src, href, or alt.
