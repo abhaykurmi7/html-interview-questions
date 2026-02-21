@@ -31,16 +31,16 @@ A: A tag is the markup written inside angle brackets, like <p>, while an element
 ### Q3: What is an attribute in HTML?
 A: An attribute provides additional information about an HTML element. It is written inside the opening tag and is usually in name–value pairs, such as src, href, or alt.
 
-## Day 4
+### Day 4
 
-### Q1: What is <!DOCTYPE html>?
-A: <!DOCTYPE html> tells the browser that the document is written in HTML5. It helps the browser render the page using modern web standards.
+### Q1: What is `<!DOCTYPE html>`?
+A: `<!DOCTYPE html>` tells the browser that the document is written in HTML5. It helps the browser render the page using modern web standards.
 
 ### Q2: What are self-closing tags in HTML?
-A: Self-closing tags are HTML tags that do not need a closing tag because they don’t wrap content, such as <img>, <br>, and <input>.
+A: Self-closing tags are HTML tags that do not need a closing tag because they don’t wrap content, such as `<img>`, `<br>`, and `<input>`.
 
-### Q3: What is the <head> tag used for?
-A: The <head> tag contains metadata about the document, such as the title, character encoding, viewport settings, and links to CSS or scripts.
+### Q3: What is the `<head>` tag used for?
+A: The `<head>` tag contains metadata about the document, such as the title, character encoding, viewport settings, and links to CSS or scripts.
 
-### Q4: What is the <body> tag?
-A: The <body> tag contains all the visible content of a webpage, including text, images, links, forms, and other elements shown to users.
+### Q4: What is the `<body>` tag?
+A: The `<body>` tag contains all the visible content of a webpage, including text, images, links, forms, and other elements shown to users.
