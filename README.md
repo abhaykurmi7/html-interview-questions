@@ -44,3 +44,20 @@ A: The `<head>` tag contains metadata about the document, such as the title, cha
 
 ### Q4: What is the `<body>` tag?
 A: The `<body>` tag contains all the visible content of a webpage, including text, images, links, forms, and other elements shown to users.
+
+## Day 5
+
+### Q1: What are semantic HTML tags?
+A: Semantic HTML tags clearly describe the meaning of their content. Tags like `<header>`, `<nav>`, `<article>`, and `<footer>` help browsers, search engines, and developers understand page structure.
+
+### Q2: What is the difference between `<div>` and `<span>`?
+A: `<div>` is a block-level element used to group larger sections of content, while `<span>` is an inline element used to group or style small parts of text within a line.
+
+### Q3: Why is semantic HTML important?
+A: Semantic HTML improves accessibility, SEO, and code readability. It helps screen readers interpret content correctly and makes maintenance easier.
+
+### Q4: What is the purpose of the `<title>` tag?
+A: The `<title>` tag defines the title of the webpage shown in the browser tab and search engine results, which is important for usability and SEO.
+
+### Q5: What is the `<meta charset="UTF-8">` tag used for?
+A: `<meta charset="UTF-8">` specifies the character encoding of the document, ensuring that text and special characters display correctly across browsers.
