@@ -60,4 +60,4 @@ A: Semantic HTML improves accessibility, SEO, and code readability. It helps scr
 A: The `<title>` tag defines the title of the webpage shown in the browser tab and search engine results, which is important for usability and SEO.
 
 ### Q5: What is the `<meta charset="UTF-8">` tag used for?
-A: `<meta charset="UTF-8">` specifies the character encoding of the document, ensuring that text and special characters display correctly across browsers.
+A: The `<meta charset="UTF-8">` tag tells the browser how to read and display text on a webpage. It prevents text and special characters from appearing broken or incorrect.
