@@ -61,3 +61,23 @@ A: The `<title>` tag defines the title of the webpage shown in the browser tab a
 
 ### Q5: What is the `<meta charset="UTF-8">` tag used for?
 A: The `<meta charset="UTF-8">` tag tells the browser how to read and display text on a webpage. It prevents text and special characters from appearing broken or incorrect.
+
+## Day 6
+
+### Q1: What is the `<img>` tag used for?
+A: The `<img>` tag is used to display images on a webpage. It requires the `src` attribute to specify the image path and the `alt` attribute for accessibility.
+
+### Q2: Why is the `alt` attribute important?
+A: The `alt` attribute provides alternative text for images. It helps screen readers for accessibility and shows text if the image fails to load.
+
+### Q3: What is the `<a>` tag?
+A: The `<a>` tag is used to create hyperlinks that connect one page to another or to different sections of the same page using the `href` attribute.
+
+### Q4: What is the difference between absolute and relative URLs?
+A: An absolute URL contains the full web address, while a relative URL points to a file or page relative to the current location.
+
+### Q5: What does `target="_blank"` do?
+A: `target="_blank"` opens the linked page in a new browser tab or window instead of the current one.
+
+### Q6: What are HTML lists?
+A: HTML lists are used to group related items together. Common types include ordered lists `<ol>` and unordered lists `<ul>`.
