@@ -81,3 +81,26 @@ A: `target="_blank"` opens the linked page in a new browser tab or window instea
 
 ### Q6: What are HTML lists?
 A: HTML lists are used to group related items together. Common types include ordered lists `<ol>` and unordered lists `<ul>`.
+
+## Day 7
+
+### Q1: What is the `<form>` tag used for?
+A: The `<form>` tag is used to collect user input. It groups form elements like input fields, labels, and buttons and sends data to a server.
+
+### Q2: What is the purpose of the `<input>` tag?
+A: The `<input>` tag is used to create input fields where users can enter data, such as text, email, password, or numbers.
+
+### Q3: What are input types in HTML?
+A: Input types define the kind of data an input field accepts, such as `text`, `email`, `password`, `number`, and `date`.
+
+### Q4: Why is the `<label>` tag important?
+A: The `<label>` tag improves accessibility by linking text with form inputs, making forms easier to use and better for screen readers.
+
+### Q5: What is the difference between `id` and `class`?
+A: `id` is unique and used for a single element, while `class` can be reused for multiple elements.
+
+### Q6: What is the `<button>` tag used for?
+A: The `<button>` tag is used to create clickable buttons that can submit forms or trigger actions.
+
+### Q7: What is accessibility in HTML?
+A: Accessibility in HTML means writing code that allows all users, including people with disabilities, to access and use a website easily.
