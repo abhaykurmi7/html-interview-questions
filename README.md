@@ -1,5 +1,3 @@
-# html-interview-questions
-Daily HTML interview questions with simple answers 
 # HTML Interview Questions – 30 Day Prep
 
 I add **one HTML interview question daily** with a short, clear answer.
