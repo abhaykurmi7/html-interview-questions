@@ -1,6 +1,6 @@
 # HTML Interview Questions – 30 Day Prep
 
-I add **one HTML interview question daily** with a short, clear answer.
+I add **daily day wise HTML interview question daily** with a short, clear answer.
 This repo is for **revision, interviews, and strong fundamentals**.
 
 ---
