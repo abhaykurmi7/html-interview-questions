@@ -102,3 +102,28 @@ A: The `<button>` tag is used to create clickable buttons that can submit forms 
 
 ### Q7: What is accessibility in HTML?
 A: Accessibility in HTML means writing code that allows all users, including people with disabilities, to access and use a website easily.
+## Day 8
+
+### Q1: What is the `<textarea>` tag used for?
+**A:** The `<textarea>` tag creates a multi-line text input for users to type longer messages or comments.
+
+### Q2: What is the `<select>` tag?
+**A:** The `<select>` tag creates a dropdown list of options for the user to choose from.
+
+### Q3: What is the `<option>` tag?
+**A:** The `<option>` tag defines each item inside a `<select>` dropdown.
+
+### Q4: What is the difference between `<ol>` and `<ul>`?
+**A:** `<ol>` creates a numbered list, while `<ul>` creates a bulleted list.
+
+### Q5: What is the `<iframe>` tag used for?
+**A:** The `<iframe>` tag embeds another webpage or content inside the current webpage.
+
+### Q6: What is the `placeholder` attribute?
+**A:** It shows temporary text inside input fields to guide the user on what to type.
+
+### Q7: What is the `required` attribute in a form?
+**A:** It makes sure the user fills in the field before submitting the form.
+
+### Q8: What is the `<fieldset>` tag used for?
+**A:** The `<fieldset>` tag groups related form elements together for better organization.
