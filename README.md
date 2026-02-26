@@ -127,3 +127,32 @@ A: Accessibility in HTML means writing code that allows all users, including peo
 
 ### Q8: What is the `<fieldset>` tag used for?
 **A:** The `<fieldset>` tag groups related form elements together for better organization.
+
+## Day 9
+
+### Q1: What is the `<link>` tag used for?
+**A:** The `<link>` tag connects an external file, like a CSS stylesheet, to the HTML document.
+
+### Q2: What is the `<script>` tag used for?
+**A:** The `<script>` tag is used to include JavaScript code in an HTML page.
+
+### Q3: What is the difference between internal and external CSS?
+**A:** Internal CSS is written inside a `<style>` tag in HTML, while external CSS is in a separate file linked with `<link>`.
+
+### Q4: What is the `<style>` tag used for?
+**A:** The `<style>` tag lets you write CSS directly inside the HTML document.
+
+### Q5: What is the `href` attribute in `<a>` tag?
+**A:** The `href` attribute defines the URL that the hyperlink points to.
+
+### Q6: What is the difference between `<b>` and `<strong>`?
+**A:** `<b>` makes text bold visually, while `<strong>` also gives it semantic importance for accessibility.
+
+### Q7: What is the difference between `<i>` and `<em>`?
+**A:** `<i>` makes text italic visually, while `<em>` emphasizes the text semantically for screen readers.
+
+### Q8: What is the `<meta name="viewport">` tag used for?
+**A:** It helps make websites responsive by controlling how the page appears on different devices.
+
+### Q9: What is the `<base>` tag?
+**A:** The `<base>` tag sets a default URL for all relative links on a page.
