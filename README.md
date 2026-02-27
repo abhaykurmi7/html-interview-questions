@@ -156,3 +156,35 @@ A: Accessibility in HTML means writing code that allows all users, including peo
 
 ### Q9: What is the `<base>` tag?
 **A:** The `<base>` tag sets a default URL for all relative links on a page.
+
+## Day 10
+
+### Q1: What is the `<table>` tag used for?
+**A:** The `<table>` tag is used to display data in rows and columns.
+
+### Q2: What is the `<tr>` tag?
+**A:** The `<tr>` tag defines a table row.
+
+### Q3: What is the `<td>` tag?
+**A:** The `<td>` tag defines a table data cell inside a row.
+
+### Q4: What is the `<th>` tag?
+**A:** The `<th>` tag defines a table header cell and is usually bold and centered.
+
+### Q5: What is the `<thead>` tag?
+**A:** The `<thead>` tag groups the header rows of a table.
+
+### Q6: What is the `<tbody>` tag?
+**A:** The `<tbody>` tag groups the main data rows of a table.
+
+### Q7: What is the `<tfoot>` tag?
+**A:** The `<tfoot>` tag groups the footer rows of a table.
+
+### Q8: What is the `colspan` attribute?
+**A:** The `colspan` attribute allows a table cell to span across multiple columns.
+
+### Q9: What is the `rowspan` attribute?
+**A:** The `rowspan` attribute allows a table cell to span across multiple rows.
+
+### Q10: When should tables be used?
+**A:** Tables should be used only for displaying tabular data, not for page layout.
