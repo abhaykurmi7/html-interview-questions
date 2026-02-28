@@ -188,3 +188,38 @@ A: Accessibility in HTML means writing code that allows all users, including peo
 
 ### Q10: When should tables be used?
 **A:** Tables should be used only for displaying tabular data, not for page layout.
+
+## Day 11
+
+### Q1: What is the `class` attribute used for?
+**A:** The `class` attribute is used to apply the same CSS or JavaScript to multiple HTML elements.
+
+### Q2: What is the `id` attribute used for?
+**A:** The `id` attribute uniquely identifies a single HTML element on a page.
+
+### Q3: Can an element have multiple classes?
+**A:** Yes, an element can have multiple classes separated by spaces.
+
+### Q4: Can multiple elements have the same `id`?
+**A:** No, an `id` must be unique and used only once on a page.
+
+### Q5: What is the `style` attribute?
+**A:** The `style` attribute is used to apply inline CSS directly to an HTML element.
+
+### Q6: What is inline CSS?
+**A:** Inline CSS is CSS written inside the `style` attribute of an HTML tag.
+
+### Q7: What is internal CSS?
+**A:** Internal CSS is written inside a `<style>` tag within the `<head>` section.
+
+### Q8: What is external CSS?
+**A:** External CSS is written in a separate `.css` file and linked using the `<link>` tag.
+
+### Q9: Which CSS type is best for large projects?
+**A:** External CSS is best because it keeps code clean and easy to maintain.
+
+### Q10: What is the `title` attribute?
+**A:** The `title` attribute shows extra information as a tooltip when you hover over an element.
+
+### Q11: What does the `hidden` attribute do?
+**A:** The `hidden` attribute hides an element from the webpage.
