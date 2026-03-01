@@ -223,3 +223,41 @@ A: Accessibility in HTML means writing code that allows all users, including peo
 
 ### Q11: What does the `hidden` attribute do?
 **A:** The `hidden` attribute hides an element from the webpage.
+
+## Day 12
+
+### Q1: What is the `<audio>` tag used for?
+**A:** The `<audio>` tag is used to add sound or music to a webpage.
+
+### Q2: What is the `<video>` tag used for?
+**A:** The `<video>` tag is used to embed videos on a webpage.
+
+### Q3: What is the `controls` attribute?
+**A:** The `controls` attribute adds play, pause, and volume controls to audio or video.
+
+### Q4: What is the `autoplay` attribute?
+**A:** The `autoplay` attribute starts playing media automatically when the page loads.
+
+### Q5: What is the `loop` attribute?
+**A:** The `loop` attribute makes audio or video play again after it ends.
+
+### Q6: What is the `muted` attribute?
+**A:** The `muted` attribute plays media without sound by default.
+
+### Q7: What is the `<source>` tag?
+**A:** The `<source>` tag provides multiple media file formats for better browser support.
+
+### Q8: What is the `<track>` tag used for?
+**A:** The `<track>` tag adds subtitles or captions to video content.
+
+### Q9: What is the difference between `<audio>` and `<video>`?
+**A:** `<audio>` is used for sound only, while `<video>` is used for visual media with sound.
+
+### Q10: What is the `<embed>` tag?
+**A:** The `<embed>` tag is used to embed external content like PDFs or media files.
+
+### Q11: What is the `<object>` tag?
+**A:** The `<object>` tag embeds external resources such as PDFs or multimedia.
+
+### Q12: Why should media files have fallback content?
+**A:** Fallback content ensures something is shown if the browser does not support the media.
