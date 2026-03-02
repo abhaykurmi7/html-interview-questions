@@ -261,3 +261,44 @@ A: Accessibility in HTML means writing code that allows all users, including peo
 
 ### Q12: Why should media files have fallback content?
 **A:** Fallback content ensures something is shown if the browser does not support the media.
+
+## Day 13
+
+### Q1: What is HTML5?
+**A:** HTML5 is the latest version of HTML that adds new elements, attributes, and better support for multimedia.
+
+### Q2: What are HTML comments?
+**A:** HTML comments are notes written in code that are not shown on the webpage.
+
+### Q3: Why are comments used in HTML?
+**A:** Comments help developers understand the code and make it easier to maintain.
+
+### Q4: What is the `<nav>` tag used for?
+**A:** The `<nav>` tag is used to define navigation links on a webpage.
+
+### Q5: What is the `<section>` tag?
+**A:** The `<section>` tag groups related content under a common theme.
+
+### Q6: What is the `<article>` tag?
+**A:** The `<article>` tag represents independent, self-contained content like blog posts or news articles.
+
+### Q7: What is the `<aside>` tag?
+**A:** The `<aside>` tag is used for content related to the main content, such as sidebars.
+
+### Q8: What is the `<header>` tag?
+**A:** The `<header>` tag contains introductory content like logos, headings, or navigation.
+
+### Q9: What is the `<footer>` tag?
+**A:** The `<footer>` tag contains footer information like copyright or links.
+
+### Q10: What is the difference between `<section>` and `<div>`?
+**A:** `<section>` has semantic meaning, while `<div>` is a generic container with no meaning.
+
+### Q11: What is the `<main>` tag?
+**A:** The `<main>` tag contains the main content of the webpage.
+
+### Q12: Can there be multiple `<main>` tags on a page?
+**A:** No, only one `<main>` tag should be used per page.
+
+### Q13: Why are semantic tags important?
+**A:** Semantic tags improve accessibility, SEO, and code readability.
