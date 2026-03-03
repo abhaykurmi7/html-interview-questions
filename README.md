@@ -302,3 +302,47 @@ A: Accessibility in HTML means writing code that allows all users, including peo
 
 ### Q13: Why are semantic tags important?
 **A:** Semantic tags improve accessibility, SEO, and code readability.
+
+## Day 14
+
+### Q1: What is the `<progress>` tag used for?
+**A:** The `<progress>` tag shows the progress of a task, such as loading or file upload.
+
+### Q2: What is the `<meter>` tag?
+**A:** The `<meter>` tag displays a value within a known range, like battery level or score.
+
+### Q3: Difference between `<progress>` and `<meter>`?
+**A:** `<progress>` shows task progress, while `<meter>` shows a fixed measurement.
+
+### Q4: What is the `data-*` attribute?
+**A:** `data-*` attributes store custom data on HTML elements.
+
+### Q5: Why are `data-*` attributes useful?
+**A:** They allow JavaScript to store and access extra information without affecting HTML structure.
+
+### Q6: What is the `contenteditable` attribute?
+**A:** It allows users to edit content directly in the browser.
+
+### Q7: What is the `draggable` attribute?
+**A:** It allows an element to be dragged using the mouse.
+
+### Q8: What is the `spellcheck` attribute?
+**A:** It enables or disables spell checking for text input.
+
+### Q9: What is the `tabindex` attribute?
+**A:** It controls keyboard navigation order using the Tab key.
+
+### Q10: What is the `download` attribute?
+**A:** It forces a link to download a file instead of opening it.
+
+### Q11: What is the `<details>` tag?
+**A:** The `<details>` tag creates expandable and collapsible content.
+
+### Q12: What is the `<summary>` tag?
+**A:** The `<summary>` tag defines the visible heading for `<details>`.
+
+### Q13: What is the `<template>` tag?
+**A:** The `<template>` tag holds HTML that is not rendered until used by JavaScript.
+
+### Q14: What is the `hidden` global attribute?
+**A:** The `hidden` attribute hides an element from the webpage.
