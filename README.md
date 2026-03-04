@@ -346,3 +346,50 @@ A: Accessibility in HTML means writing code that allows all users, including peo
 
 ### Q14: What is the `hidden` global attribute?
 **A:** The `hidden` attribute hides an element from the webpage.
+
+## Day 15
+
+### Q1: What is the `<canvas>` tag used for?
+**A:** The `<canvas>` tag is used to draw graphics using JavaScript.
+
+### Q2: What is SVG in HTML?
+**A:** SVG is used to create scalable vector graphics directly in HTML.
+
+### Q3: Difference between `<canvas>` and SVG?
+**A:** `<canvas>` uses pixels and is drawn with JavaScript, while SVG is vector-based and scalable.
+
+### Q4: What is the `<noscript>` tag?
+**A:** The `<noscript>` tag shows content when JavaScript is disabled in the browser.
+
+### Q5: What is the `<picture>` tag used for?
+**A:** The `<picture>` tag provides different images for different screen sizes.
+
+### Q6: What is responsive images?
+**A:** Responsive images adapt to different screen sizes for better performance.
+
+### Q7: What is the `srcset` attribute?
+**A:** `srcset` allows the browser to choose the best image based on device size.
+
+### Q8: What is the `sizes` attribute?
+**A:** The `sizes` attribute tells the browser how much space the image will take.
+
+### Q9: What is lazy loading?
+**A:** Lazy loading loads images only when they are needed.
+
+### Q10: What does `loading="lazy"` do?
+**A:** It delays loading images until they come into view.
+
+### Q11: What is the `<mark>` tag?
+**A:** The `<mark>` tag highlights text.
+
+### Q12: What is the `<time>` tag?
+**A:** The `<time>` tag represents dates or times in a machine-readable format.
+
+### Q13: What is the `<abbr>` tag?
+**A:** The `<abbr>` tag defines abbreviations or acronyms.
+
+### Q14: What is the `<code>` tag?
+**A:** The `<code>` tag displays code snippets.
+
+### Q15: What is the `<pre>` tag?
+**A:** The `<pre>` tag preserves spaces and formatting exactly as written.
