@@ -393,3 +393,56 @@ A: Accessibility in HTML means writing code that allows all users, including peo
 
 ### Q15: What is the `<pre>` tag?
 **A:** The `<pre>` tag preserves spaces and formatting exactly as written.
+
+## Day 16
+
+### Q1: What is the `required` attribute in HTML?
+A: The `required` attribute makes an input field mandatory before submitting a form.
+
+### Q2: What does the `placeholder` attribute do?
+A: The `placeholder` attribute shows hint text inside an input field.
+
+### Q3: What is the `readonly` attribute?
+A: The `readonly` attribute makes an input field non-editable but still visible.
+
+### Q4: What is the `disabled` attribute?
+A: The `disabled` attribute makes an input field unusable and it will not be submitted with the form.
+
+### Q5: What is the `pattern` attribute?
+A: The `pattern` attribute defines a regular expression that input data must match.
+
+### Q6: What is the `maxlength` attribute?
+A: The `maxlength` attribute limits the number of characters in an input field.
+
+### Q7: What is the `min` attribute?
+A: The `min` attribute sets the minimum allowed value for an input field.
+
+### Q8: What is the `max` attribute?
+A: The `max` attribute sets the maximum allowed value for an input field.
+
+### Q9: What is the `step` attribute?
+A: The `step` attribute defines the interval between valid numbers in an input field.
+
+### Q10: What is the `<fieldset>` tag?
+A: The `<fieldset>` tag groups related form elements together.
+
+### Q11: What is the `<legend>` tag?
+A: The `<legend>` tag provides a title for a `<fieldset>` group.
+
+### Q12: What is the `<datalist>` tag?
+A: The `<datalist>` tag provides predefined options for input fields.
+
+### Q13: What is the `<output>` tag?
+A: The `<output>` tag displays the result of a calculation.
+
+### Q14: What is the `autocomplete` attribute?
+A: The `autocomplete` attribute allows browsers to suggest previously entered values.
+
+### Q15: What is the `novalidate` attribute?
+A: The `novalidate` attribute disables browser form validation.
+
+### Q16: What is client-side validation?
+A: Client-side validation checks form input in the browser before sending it to the server.
+
+### Q17: Why is form validation important?
+A: Form validation ensures correct and secure data before submission.
