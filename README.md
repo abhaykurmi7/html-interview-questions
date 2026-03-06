@@ -446,3 +446,56 @@ A: Client-side validation checks form input in the browser before sending it to 
 
 ### Q17: Why is form validation important?
 A: Form validation ensures correct and secure data before submission.
+
+## Day 17
+
+### Q1: What is the `<iframe>` tag used for?
+**A:** The `<iframe>` tag is used to embed another webpage inside the current webpage.
+
+### Q2: What does the `src` attribute in `<iframe>` do?
+**A:** The `src` attribute specifies the URL of the page that will be displayed inside the iframe.
+
+### Q3: What is the `width` and `height` attribute in `<iframe>`?
+**A:** They define the size of the iframe.
+
+### Q4: What is the `title` attribute in `<iframe>`?
+**A:** The `title` attribute improves accessibility by describing the iframe content.
+
+### Q5: What is the `<map>` tag used for?
+**A:** The `<map>` tag is used to create clickable areas on an image.
+
+### Q6: What is the `<area>` tag?
+**A:** The `<area>` tag defines clickable regions inside an image map.
+
+### Q7: What is the `coords` attribute?
+**A:** The `coords` attribute defines the coordinates of the clickable area in an image map.
+
+### Q8: What is the `shape` attribute in `<area>`?
+**A:** It defines the shape of the clickable area, such as rectangle, circle, or polygon.
+
+### Q9: What is the `<figure>` tag?
+**A:** The `<figure>` tag is used to group media like images or diagrams with captions.
+
+### Q10: What is the `<figcaption>` tag?
+**A:** The `<figcaption>` tag provides a caption for a `<figure>` element.
+
+### Q11: What is the `<b>` tag?
+**A:** The `<b>` tag makes text bold without adding extra meaning.
+
+### Q12: What is the `<strong>` tag?
+**A:** The `<strong>` tag makes text bold and indicates important content.
+
+### Q13: Difference between `<b>` and `<strong>`?
+**A:** `<b>` is for styling, while `<strong>` adds semantic importance.
+
+### Q14: What is the `<i>` tag?
+**A:** The `<i>` tag displays text in italic style.
+
+### Q15: What is the `<em>` tag?
+**A:** The `<em>` tag emphasizes text and usually appears italic.
+
+### Q16: Difference between `<i>` and `<em>`?
+**A:** `<i>` is only for style, while `<em>` adds semantic emphasis.
+
+### Q17: Why are semantic tags preferred over styling tags?
+**A:** Semantic tags improve accessibility, SEO, and code clarity.
