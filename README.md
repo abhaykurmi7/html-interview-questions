@@ -499,3 +499,58 @@ A: Form validation ensures correct and secure data before submission.
 
 ### Q17: Why are semantic tags preferred over styling tags?
 **A:** Semantic tags improve accessibility, SEO, and code clarity.
+## Day 18
+
+### Q1: What is the `<form>` tag used for?
+**A:** The `<form>` tag is used to collect user input and send it to a server.
+
+### Q2: What does the `action` attribute do in a form?
+**A:** The `action` attribute specifies where the form data should be sent.
+
+### Q3: What does the `method` attribute do?
+**A:** It defines how the form data is sent, usually using `GET` or `POST`.
+
+### Q4: Difference between GET and POST?
+**A:** GET sends data in the URL, while POST sends data in the request body.
+
+### Q5: What is the `<label>` tag used for?
+**A:** The `<label>` tag describes an input field and improves accessibility.
+
+### Q6: What is the `<input>` tag?
+**A:** The `<input>` tag is used to create input fields for user data.
+
+### Q7: What is the `placeholder` attribute?
+**A:** It shows a short hint inside an input field.
+
+### Q8: What is the `required` attribute?
+**A:** It makes sure the user fills the field before submitting the form.
+
+### Q9: What is the `name` attribute in form inputs?
+**A:** It identifies form data when it is sent to the server.
+
+### Q10: What is the `value` attribute?
+**A:** The `value` attribute defines the default value of an input field.
+
+### Q11: What is the `<textarea>` tag?
+**A:** The `<textarea>` tag creates a multi-line text input field.
+
+### Q12: What is the `<select>` tag?
+**A:** The `<select>` tag creates a dropdown list.
+
+### Q13: What is the `<option>` tag?
+**A:** The `<option>` tag defines items inside a dropdown list.
+
+### Q14: What is the `selected` attribute?
+**A:** It sets a default selected option in a dropdown.
+
+### Q15: What is the `checked` attribute?
+**A:** It pre-selects a checkbox or radio button.
+
+### Q16: What is the difference between radio and checkbox inputs?
+**A:** Radio buttons allow one selection, while checkboxes allow multiple selections.
+
+### Q17: What is the `<fieldset>` tag?
+**A:** The `<fieldset>` tag groups related form elements.
+
+### Q18: What is the `<legend>` tag?
+**A:** The `<legend>` tag provides a title for a `<fieldset>` group.
