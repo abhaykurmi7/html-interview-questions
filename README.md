@@ -554,3 +554,62 @@ A: Form validation ensures correct and secure data before submission.
 
 ### Q18: What is the `<legend>` tag?
 **A:** The `<legend>` tag provides a title for a `<fieldset>` group.
+
+## Day 19
+
+### Q1: What is the `<meta>` tag used for?
+**A:** The `<meta>` tag provides metadata about the HTML document, such as character set, description, and viewport settings.
+
+### Q2: What does `<meta charset="UTF-8">` do?
+**A:** It defines the character encoding so text and special characters display correctly.
+
+### Q3: What is the purpose of `<meta name="description">`?
+**A:** It provides a short description of the webpage for search engines.
+
+### Q4: What is the `<title>` tag?
+**A:** The `<title>` tag defines the title of the webpage shown in the browser tab.
+
+### Q5: What is the `<link>` tag used for?
+**A:** The `<link>` tag connects external resources like CSS files to the HTML document.
+
+### Q6: What is the `rel` attribute in `<link>`?
+**A:** It defines the relationship between the current document and the linked resource.
+
+### Q7: What is the `href` attribute?
+**A:** It specifies the URL of the linked resource.
+
+### Q8: What is the `<base>` tag?
+**A:** The `<base>` tag sets a default URL for all relative links on a webpage.
+
+### Q9: What is the `<style>` tag?
+**A:** The `<style>` tag is used to write CSS directly inside an HTML document.
+
+### Q10: Where is the `<style>` tag usually placed?
+**A:** It is usually placed inside the `<head>` section.
+
+### Q11: What is the `<script>` tag?
+**A:** The `<script>` tag is used to include JavaScript in an HTML page.
+
+### Q12: Where can the `<script>` tag be placed?
+**A:** It can be placed in the `<head>` or at the end of the `<body>`.
+
+### Q13: What is the `defer` attribute in `<script>`?
+**A:** It delays JavaScript execution until the HTML page is fully loaded.
+
+### Q14: What is the `async` attribute in `<script>`?
+**A:** It loads and runs the script asynchronously without blocking the page.
+
+### Q15: What is the difference between `async` and `defer`?
+**A:** `async` runs scripts immediately after loading, while `defer` runs them after the page finishes loading.
+
+### Q16: What is a favicon?
+**A:** A favicon is the small icon displayed in the browser tab.
+
+### Q17: How do you add a favicon in HTML?
+**A:** By using a `<link>` tag with `rel="icon"` inside the `<head>`.
+
+### Q18: Why is the `<head>` section important?
+**A:** It contains metadata, styles, scripts, and settings for the webpage.
+
+### Q19: What is the main purpose of metadata?
+**A:** Metadata provides information about the webpage to browsers and search engines.
