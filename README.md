@@ -613,3 +613,65 @@ A: Form validation ensures correct and secure data before submission.
 
 ### Q19: What is the main purpose of metadata?
 **A:** Metadata provides information about the webpage to browsers and search engines.
+
+## Day 20
+
+### Q1: What is the purpose of the `<html>` tag?
+**A:** The `<html>` tag is the root element that contains all the HTML content of the webpage.
+
+### Q2: What is the `lang` attribute in the `<html>` tag?
+**A:** It specifies the language of the webpage, such as `en` for English.
+
+### Q3: Why is the `lang` attribute important?
+**A:** It helps search engines and screen readers understand the language of the page.
+
+### Q4: What is the DOM?
+**A:** The DOM (Document Object Model) is a structure that represents HTML elements as objects that JavaScript can access and modify.
+
+### Q5: What is nesting in HTML?
+**A:** Nesting means placing HTML elements inside other elements.
+
+### Q6: What is proper HTML nesting?
+**A:** Proper nesting means closing tags in the correct order they were opened.
+
+### Q7: What happens if HTML tags are not closed properly?
+**A:** It can cause layout problems or unexpected behavior in the browser.
+
+### Q8: What is whitespace in HTML?
+**A:** Whitespace refers to spaces, tabs, and line breaks in the HTML code.
+
+### Q9: Does HTML ignore extra whitespace?
+**A:** Yes, browsers usually ignore extra whitespace in HTML.
+
+### Q10: What is the `<br>` tag used for?
+**A:** The `<br>` tag creates a line break.
+
+### Q11: What is the `<hr>` tag?
+**A:** The `<hr>` tag creates a horizontal line to separate content.
+
+### Q12: What is the `<small>` tag?
+**A:** The `<small>` tag displays text in a smaller font.
+
+### Q13: What is the `<sub>` tag?
+**A:** The `<sub>` tag displays subscript text below the normal line.
+
+### Q14: What is the `<sup>` tag?
+**A:** The `<sup>` tag displays superscript text above the normal line.
+
+### Q15: What is the `<blockquote>` tag?
+**A:** The `<blockquote>` tag is used for long quotations.
+
+### Q16: What is the `<q>` tag?
+**A:** The `<q>` tag is used for short inline quotations.
+
+### Q17: What is the `<cite>` tag?
+**A:** The `<cite>` tag is used to reference the title of a work like a book or article.
+
+### Q18: What is the `<address>` tag?
+**A:** The `<address>` tag provides contact information for a person or organization.
+
+### Q19: What is the `<bdi>` tag?
+**A:** The `<bdi>` tag isolates text that may have a different text direction.
+
+### Q20: What is the `<bdo>` tag?
+**A:** The `<bdo>` tag overrides the text direction.
