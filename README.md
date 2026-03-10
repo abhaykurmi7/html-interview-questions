@@ -675,3 +675,67 @@ A: Form validation ensures correct and secure data before submission.
 
 ### Q20: What is the `<bdo>` tag?
 **A:** The `<bdo>` tag overrides the text direction.
+## Day 21
+
+### Q1: What is the `<datalist>` tag?
+**A:** The `<datalist>` tag provides a list of predefined options for an input field.
+
+### Q2: How does `<datalist>` work with `<input>`?
+**A:** The `<input>` tag uses the `list` attribute to connect with a `<datalist>`.
+
+### Q3: What is the `<output>` tag?
+**A:** The `<output>` tag displays the result of a calculation.
+
+### Q4: What is the `min` attribute in input fields?
+**A:** It defines the minimum value allowed in an input field.
+
+### Q5: What is the `max` attribute?
+**A:** It defines the maximum value allowed in an input field.
+
+### Q6: What is the `step` attribute?
+**A:** It defines the allowed number intervals for input values.
+
+### Q7: What is the `pattern` attribute?
+**A:** The `pattern` attribute defines a regular expression for input validation.
+
+### Q8: What is the `maxlength` attribute?
+**A:** It limits the number of characters a user can enter.
+
+### Q9: What is the `minlength` attribute?
+**A:** It sets the minimum number of characters required in an input field.
+
+### Q10: What is the `readonly` attribute?
+**A:** It makes an input field read-only so users cannot modify it.
+
+### Q11: What is the `disabled` attribute?
+**A:** It disables an input field so users cannot interact with it.
+
+### Q12: Difference between `readonly` and `disabled`?
+**A:** `readonly` allows the value to be submitted, while `disabled` does not.
+
+### Q13: What is the `autocomplete` attribute?
+**A:** It allows the browser to automatically fill form fields.
+
+### Q14: What is the `autofocus` attribute?
+**A:** It automatically focuses on an input field when the page loads.
+
+### Q15: What is the `multiple` attribute?
+**A:** It allows users to select multiple values in inputs like file uploads or email.
+
+### Q16: What is the `<optgroup>` tag?
+**A:** It groups related options inside a dropdown list.
+
+### Q17: What is the `<label for="">` attribute?
+**A:** The `for` attribute connects a label with a specific input field.
+
+### Q18: What is form validation in HTML?
+**A:** Form validation ensures user input meets certain rules before submission.
+
+### Q19: What is client-side validation?
+**A:** Validation performed in the browser before sending data to the server.
+
+### Q20: Why is form validation important?
+**A:** It improves user experience and prevents incorrect data submission.
+
+### Q21: Can HTML forms work without JavaScript?
+**A:** Yes, HTML forms can submit data directly to a server without JavaScript.
