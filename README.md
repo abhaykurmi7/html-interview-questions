@@ -739,3 +739,71 @@ A: Form validation ensures correct and secure data before submission.
 
 ### Q21: Can HTML forms work without JavaScript?
 **A:** Yes, HTML forms can submit data directly to a server without JavaScript.
+
+## Day 22
+
+### Q1: What is the `<audio>` tag used for?
+**A:** The `<audio>` tag is used to embed audio files in a webpage.
+
+### Q2: What is the `controls` attribute in `<audio>`?
+**A:** It adds play, pause, and volume controls to the audio player.
+
+### Q3: What is the `autoplay` attribute?
+**A:** It makes the audio play automatically when the page loads.
+
+### Q4: What is the `loop` attribute?
+**A:** It makes the audio repeat automatically after it ends.
+
+### Q5: What is the `muted` attribute?
+**A:** It starts the audio in a muted state.
+
+### Q6: What is the `<source>` tag in audio?
+**A:** The `<source>` tag specifies the audio file and format.
+
+### Q7: Can `<audio>` support multiple formats?
+**A:** Yes, using multiple `<source>` tags for browser compatibility.
+
+### Q8: What is the `<video>` tag used for?
+**A:** The `<video>` tag embeds video files in a webpage.
+
+### Q9: What is the `controls` attribute in `<video>`?
+**A:** It adds play, pause, volume, and fullscreen controls to the video.
+
+### Q10: What is the `autoplay` attribute in `<video>`?
+**A:** It makes the video play automatically when the page loads.
+
+### Q11: What is the `loop` attribute in `<video>`?
+**A:** It makes the video play repeatedly after it ends.
+
+### Q12: What is the `muted` attribute in `<video>`?
+**A:** It starts the video with the sound muted.
+
+### Q13: What is the `<track>` tag?
+**A:** The `<track>` tag adds subtitles, captions, or descriptions to audio/video.
+
+### Q14: What is the `poster` attribute?
+**A:** It specifies an image to show before the video starts playing.
+
+### Q15: Can `<video>` support multiple formats?
+**A:** Yes, using multiple `<source>` tags for browser compatibility.
+
+### Q16: What is the difference between `<audio>` and `<video>`?
+**A:** `<audio>` plays sound only, while `<video>` plays both sound and visuals.
+
+### Q17: Can you embed YouTube or external videos using `<video>`?
+**A:** No, you need `<iframe>` for external videos like YouTube.
+
+### Q18: What are media controls in HTML?
+**A:** Media controls let users play, pause, adjust volume, and fullscreen.
+
+### Q19: What is the difference between `autoplay` and `muted autoplay`?
+**A:** Browsers often require muted audio for autoplay to work.
+
+### Q20: What is adaptive streaming in HTML5 video?
+**A:** It adjusts video quality automatically based on the user’s connection.
+
+### Q21: Can `<video>` work without controls?
+**A:** Yes, but you need JavaScript to control playback manually.
+
+### Q22: Why are `<audio>` and `<video>` tags important?
+**A:** They allow embedding multimedia without plugins, improving accessibility and compatibility.
