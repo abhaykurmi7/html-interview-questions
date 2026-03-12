@@ -807,3 +807,73 @@ A: Form validation ensures correct and secure data before submission.
 
 ### Q22: Why are `<audio>` and `<video>` tags important?
 **A:** They allow embedding multimedia without plugins, improving accessibility and compatibility.
+## Day 23
+
+### Q1: What is the `<table>` tag used for?
+**A:** The `<table>` tag is used to create tables in HTML.
+
+### Q2: What is the `<tr>` tag?
+**A:** The `<tr>` tag defines a table row.
+
+### Q3: What is the `<td>` tag?
+**A:** The `<td>` tag defines a table cell containing data.
+
+### Q4: What is the `<th>` tag?
+**A:** The `<th>` tag defines a table header cell.
+
+### Q5: What is the difference between `<td>` and `<th>`?
+**A:** `<td>` is for regular cells; `<th>` is for header cells with bold and centered text by default.
+
+### Q6: What is the `<caption>` tag?
+**A:** The `<caption>` tag provides a title or description for a table.
+
+### Q7: What is the `colspan` attribute?
+**A:** `colspan` allows a cell to span across multiple columns.
+
+### Q8: What is the `rowspan` attribute?
+**A:** `rowspan` allows a cell to span across multiple rows.
+
+### Q9: What is the `<thead>` tag?
+**A:** The `<thead>` tag groups header rows of a table.
+
+### Q10: What is the `<tbody>` tag?
+**A:** The `<tbody>` tag groups the body (data) rows of a table.
+
+### Q11: What is the `<tfoot>` tag?
+**A:** The `<tfoot>` tag groups footer rows of a table, often used for summaries.
+
+### Q12: What is the `<col>` tag?
+**A:** The `<col>` tag specifies column properties for a table.
+
+### Q13: What is the `<colgroup>` tag?
+**A:** The `<colgroup>` tag groups multiple `<col>` elements for styling or layout.
+
+### Q14: What is the `<fieldset>` tag?
+**A:** The `<fieldset>` tag groups related form elements for better organization.
+
+### Q15: What is the `<legend>` tag?
+**A:** The `<legend>` tag provides a caption for the `<fieldset>` group.
+
+### Q16: What is the `<input type="file">` used for?
+**A:** It allows users to upload files from their device.
+
+### Q17: What is the `<input type="email">` used for?
+**A:** It validates that the user enters a proper email format.
+
+### Q18: What is the `<input type="number">` used for?
+**A:** It allows only numeric input and supports min, max, and step attributes.
+
+### Q19: What is the `<input type="range">` used for?
+**A:** It creates a slider to select a numeric value within a range.
+
+### Q20: What is the `<input type="date">` used for?
+**A:** It provides a date picker for user input.
+
+### Q21: What is the `<progress>` tag?
+**A:** The `<progress>` tag shows progress of a task, like loading or file upload.
+
+### Q22: What is the `<meter>` tag?
+**A:** The `<meter>` tag shows a scalar measurement within a known range, like disk usage.
+
+### Q23: Difference between `<progress>` and `<meter>`?
+**A:** `<progress>` indicates completion percentage, `<meter>` represents a value within a range.
