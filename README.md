@@ -1,4 +1,4 @@
-# HTML Interview Questions – 30 Day Prep
+ji# HTML Interview Questions – 30 Day Prep
 
 I add **daily day wise HTML interview question daily** with a short, clear answer.
 This repo is for **revision, interviews, and strong fundamentals**.
@@ -877,3 +877,74 @@ A: Form validation ensures correct and secure data before submission.
 
 ### Q23: Difference between `<progress>` and `<meter>`?
 **A:** `<progress>` indicates completion percentage, `<meter>` represents a value within a range.
+
+## Day 23
+
+### Q1: What is the `<iframe>` tag?
+**A:** The `<iframe>` tag is used to embed another webpage inside the current webpage.
+
+### Q2: What is the `src` attribute in `<iframe>`?
+**A:** The `src` attribute specifies the URL of the page that will be embedded.
+
+### Q3: What is the `width` attribute in `<iframe>`?
+**A:** It defines the width of the iframe.
+
+### Q4: What is the `height` attribute in `<iframe>`?
+**A:** It defines the height of the iframe.
+
+### Q5: What is the `title` attribute in `<iframe>`?
+**A:** It provides a description for accessibility so screen readers can understand the iframe content.
+
+### Q6: What is the `loading="lazy"` attribute?
+**A:** It delays loading the iframe until it appears in the user's viewport, improving performance.
+
+### Q7: What is the `<embed>` tag?
+**A:** The `<embed>` tag is used to embed external content like PDFs or multimedia.
+
+### Q8: What is the `<object>` tag?
+**A:** The `<object>` tag is used to embed multimedia content like images, videos, or PDFs.
+
+### Q9: Difference between `<embed>` and `<object>`?
+**A:** `<embed>` is simpler, while `<object>` is more flexible and supports fallback content.
+
+### Q10: What is the `<param>` tag?
+**A:** The `<param>` tag defines parameters for an `<object>` element.
+
+### Q11: What is the `<canvas>` tag?
+**A:** The `<canvas>` tag is used to draw graphics using JavaScript.
+
+### Q12: What is the default size of `<canvas>`?
+**A:** The default size is **300px width** and **150px height**.
+
+### Q13: What is the `<svg>` tag?
+**A:** `<svg>` is used to create vector graphics in HTML.
+
+### Q14: Difference between `<canvas>` and `<svg>`?
+**A:** `<canvas>` uses pixels and JavaScript for drawing, while `<svg>` uses XML-based vector graphics.
+
+### Q15: What are vector graphics?
+**A:** Vector graphics are images defined by shapes and lines, which can scale without losing quality.
+
+### Q16: What is responsive embedding?
+**A:** It ensures embedded content like videos or iframes adjust to different screen sizes.
+
+### Q17: Can iframes affect website security?
+**A:** Yes, iframes can introduce security risks if content from untrusted sources is embedded.
+
+### Q18: What is the `sandbox` attribute in `<iframe>`?
+**A:** It restricts actions inside the iframe for security.
+
+### Q19: What is the `<map>` tag?
+**A:** The `<map>` tag defines an image map with clickable areas.
+
+### Q20: What is the `<area>` tag?
+**A:** The `<area>` tag defines clickable regions inside an image map.
+
+### Q21: What is an image map?
+**A:** An image map allows different parts of an image to link to different URLs.
+
+### Q22: What is the `coords` attribute in `<area>`?
+**A:** It specifies the coordinates of the clickable area.
+
+### Q23: Why are embedding tags important in HTML?
+**A:** They allow websites to include external content like videos, maps, and graphics.
