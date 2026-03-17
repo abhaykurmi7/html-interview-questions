@@ -948,3 +948,76 @@ A: Form validation ensures correct and secure data before submission.
 
 ### Q23: Why are embedding tags important in HTML?
 **A:** They allow websites to include external content like videos, maps, and graphics.
+## Day 24
+
+### Q1: What is SEO in HTML?
+**A:** SEO (Search Engine Optimization) is the process of improving a website’s visibility in search engines.
+
+### Q2: How does HTML help in SEO?
+**A:** HTML provides proper structure using tags like headings, meta tags, and semantic elements.
+
+### Q3: What is the `<meta name="description">` tag?
+**A:** It provides a short description of the webpage for search engines.
+
+### Q4: What is the `<meta name="keywords">` tag?
+**A:** It defines keywords related to the webpage (less important today).
+
+### Q5: What is the `<meta name="viewport">` tag?
+**A:** It controls how a webpage is displayed on mobile devices.
+
+### Q6: What are heading tags in HTML?
+**A:** Heading tags (`<h1>` to `<h6>`) define titles and subheadings on a webpage.
+
+### Q7: Why is `<h1>` important for SEO?
+**A:** `<h1>` represents the main title and helps search engines understand the page topic.
+
+### Q8: What are semantic tags for SEO?
+**A:** Tags like `<header>`, `<article>`, `<section>`, `<footer>` improve structure and SEO.
+
+### Q9: What is the `<alt>` attribute in images?
+**A:** It provides text for images, helping SEO and accessibility.
+
+### Q10: What is a sitemap?
+**A:** A sitemap is a file that lists all pages of a website for search engines.
+
+### Q11: What is robots.txt?
+**A:** It tells search engines which pages to crawl or not.
+
+### Q12: What is canonical URL?
+**A:** It prevents duplicate content issues by specifying the main version of a page.
+
+### Q13: What is the `<link rel="canonical">` tag?
+**A:** It defines the preferred URL of a webpage.
+
+### Q14: What is page loading speed in SEO?
+**A:** It is how fast a webpage loads, affecting ranking and user experience.
+
+### Q15: What is lazy loading in HTML?
+**A:** It delays loading images or iframes until needed.
+
+### Q16: What is structured data?
+**A:** It is additional data that helps search engines understand content better.
+
+### Q17: What is Open Graph meta tag?
+**A:** It controls how content appears when shared on social media.
+
+### Q18: What is the `lang` attribute in HTML?
+**A:** It specifies the language of the webpage.
+
+### Q19: Why is mobile-friendly design important?
+**A:** Most users browse on mobile, so responsiveness improves SEO.
+
+### Q20: What is internal linking?
+**A:** Linking pages within the same website.
+
+### Q21: What is external linking?
+**A:** Linking to other websites.
+
+### Q22: What is anchor text?
+**A:** The clickable text in a hyperlink.
+
+### Q23: What is duplicate content?
+**A:** Same content appearing on multiple URLs, which can harm SEO.
+
+### Q24: Why is clean HTML important for SEO?
+**A:** Clean, well-structured HTML improves readability and search engine indexing.
