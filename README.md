@@ -1021,3 +1021,79 @@ A: Form validation ensures correct and secure data before submission.
 
 ### Q24: Why is clean HTML important for SEO?
 **A:** Clean, well-structured HTML improves readability and search engine indexing.
+## Day 25
+
+### Q1: What is the difference between `id` and `data-*` attributes?
+**A:** `id` is used to uniquely identify elements, while `data-*` attributes are used to store custom data without affecting HTML structure.
+
+### Q2: What is the purpose of `data-*` attributes?
+**A:** They allow storing extra information in HTML elements that can be accessed using JavaScript.
+
+### Q3: What is the difference between `defer` and `async` in script loading?
+**A:** `defer` loads the script in background and executes after HTML parsing, while `async` executes immediately when loaded.
+
+### Q4: What happens if you don’t close a tag in HTML?
+**A:** Browsers try to fix it automatically, but it can cause unexpected layout or rendering issues.
+
+### Q5: What is DOM in relation to HTML?
+**A:** DOM (Document Object Model) represents HTML as a tree structure that JavaScript can manipulate.
+
+### Q6: What is the difference between inline, block, and inline-block elements?
+**A:** Inline elements don’t start on a new line, block elements do, and inline-block allows setting width/height while staying inline.
+
+### Q7: What is the use of `contenteditable` attribute?
+**A:** It allows users to edit content directly in the browser.
+
+### Q8: What is the difference between `innerHTML` and `textContent`?
+**A:** `innerHTML` reads HTML tags, while `textContent` only reads plain text.
+
+### Q9: What is reflow and repaint in browsers?
+**A:** Reflow recalculates layout, repaint updates visual changes. Both affect performance.
+
+### Q10: What is the purpose of `<noscript>` tag?
+**A:** It shows content when JavaScript is disabled in the browser.
+
+### Q11: What is the difference between `<strong>` and `<b>`?
+**A:** `<strong>` has semantic importance, while `<b>` is only for styling.
+
+### Q12: What is the difference between `<em>` and `<i>`?
+**A:** `<em>` adds emphasis (semantic), `<i>` is just visual styling.
+
+### Q13: What is the use of `tabindex`?
+**A:** It controls the order of keyboard navigation on a webpage.
+
+### Q14: What is ARIA in HTML?
+**A:** ARIA (Accessible Rich Internet Applications) improves accessibility for screen readers.
+
+### Q15: What is the difference between `hidden` attribute and `display: none`?
+**A:** Both hide elements, but `hidden` is semantic HTML, while `display: none` is CSS.
+
+### Q16: What is progressive enhancement?
+**A:** Building basic functionality first, then adding advanced features.
+
+### Q17: What is graceful degradation?
+**A:** Designing for modern browsers but ensuring it still works on older ones.
+
+### Q18: What is the use of `<picture>` tag?
+**A:** It allows responsive images with different sources.
+
+### Q19: What is the difference between `<picture>` and `<img>`?
+**A:** `<img>` shows a single image, while `<picture>` provides multiple image options.
+
+### Q20: What is `srcset` in images?
+**A:** It allows different image sizes for different screen resolutions.
+
+### Q21: What is the use of `loading="lazy"` in images?
+**A:** It improves performance by loading images only when needed.
+
+### Q22: What is the difference between `required` and `readonly`?
+**A:** `required` makes input mandatory, while `readonly` prevents editing.
+
+### Q23: What is form validation in HTML?
+**A:** It ensures user input meets certain rules before submission.
+
+### Q24: What is the difference between client-side and server-side validation?
+**A:** Client-side happens in browser, server-side happens on server for security.
+
+### Q25: Why is writing clean and semantic HTML important in real projects?
+**A:** It improves maintainability, SEO, accessibility, and performance.
